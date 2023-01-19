@@ -1,5 +1,5 @@
 # flutter_appauth_scene_delegate
-Demo project for fixing PresentinvViewController error
+Demo project for fixing PresentingViewController error
 
 ## Warning: This project is setup to reproduce an error in flutter_appauth when using SceneDelegate.
 
